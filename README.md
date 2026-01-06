@@ -26,69 +26,69 @@ for focused study or replication.
 ## Paper Highlights (one line each)
 
 ### 00 Surveys
-- `AI4QuantInvest-Survey.pdf`: survey of AI methods in quantitative investment research.
-- `Equity-Markets-LLM-Survey.pdf`: LLM use cases and results in equity markets.
-- `The-New-Quant-Survey.pdf`: overview of modern quant workflows and model trends.
+- `AI4QuantInvest-Survey`: survey of AI methods in quantitative investment research.
+- `Equity-Markets-LLM-Survey`: LLM use cases and results in equity markets.
+- `The-New-Quant-Survey`: overview of modern quant workflows and model trends.
 
 ### 01 Agentic Trading and Strategy Automation
-- `AAPM-LLM-Agent-Asset-Pricing.pdf`: LLM agent for asset pricing and market reasoning.
-- `AIA-Forecaster.pdf`: agentic forecasting framework for market prediction.
-- `Alpha-GPT.pdf`: GPT-style approach to alpha generation.
-- `Alpha-Jungle-MCTS.pdf`: MCTS-driven search for trading strategies.
-- `Alpha-R1.pdf`: RL-style agent for trading or market decision tasks.
-- `AlphaAgent.pdf`: agent-based trading decision architecture.
-- `AlphaForge.pdf`: automated alpha factor discovery pipeline.
-- `AlphaQuanter.pdf`: LLM-enhanced quant research workflow.
-- `Approaching-Human-Level-Forecasting.pdf`: improved forecasting performance with LLMs.
-- `Can-LLMs-Trade-Market-Sim.pdf`: LLM trading in market simulation environments.
-- `ChatGPT-Abnormal-Returns.pdf`: using ChatGPT-style signals for return prediction.
-- `ChatGPT-Portfolio-Selection.pdf`: LLM assistance for portfolio construction.
-- `Cognitive-Alpha-Mining.pdf`: cognitive-style alpha mining with LLMs.
-- `Evolutionary-Alpha-Factor-Discovery.pdf`: evolutionary search for alpha factors.
-- `FINMEM.pdf`: memory-augmented LLMs for financial reasoning tasks.
-- `FLAG-TRADER.pdf`: LLM trading agent with feedback or guardrails.
-- `FinCon.pdf`: LLM-based financial conversation or decision agent.
-- `FinVision-Multi-Agent-Prediction.pdf`: multi-agent prediction system for markets.
-- `GPT-Stock-Factors.pdf`: LLMs for stock factor generation.
-- `LLM-Crypto-Portfolio-Management.pdf`: LLM-guided crypto portfolio management.
-- `MarketSenseAI-2.pdf`: market-sensing agent for trading signals.
-- `MountainLion-Multimodal-Trading.pdf`: multimodal inputs for trading agents.
-- `Multimodal-Foundation-Agent.pdf`: foundation agent with multimodal financial inputs.
-- `P1GPT-Multimodal-Finance-Analysis.pdf`: multimodal LLM for finance analysis.
-- `QuantEvolve.pdf`: evolutionary or adaptive quant research agent.
-- `RD-Agent-Quant.pdf`: R&D style agent for quant research.
-- `StockAgent-Simulated-Trading.pdf`: simulated trading with agent-based systems.
-- `TraderTalk-LLM-ABM-Trading.pdf`: agent-based market with LLM trader agents.
-- `TradingAgents.pdf`: multi-agent setups for trading workflows.
-- `What-Drives-Performance.pdf`: analysis of performance drivers in agentic trading.
+- `AAPM-LLM-Agent-Asset-Pricing`: LLM agent for asset pricing and market reasoning.
+- `AIA-Forecaster`: agentic forecasting framework for market prediction.
+- `Alpha-GPT`: GPT-style approach to alpha generation.
+- `Alpha-Jungle-MCTS`: MCTS-driven search for trading strategies.
+- `Alpha-R1`: RL-style agent for trading or market decision tasks.
+- `AlphaAgent`: agent-based trading decision architecture.
+- `AlphaForge`: automated alpha factor discovery pipeline.
+- `AlphaQuanter`: LLM-enhanced quant research workflow.
+- `Approaching-Human-Level-Forecasting`: improved forecasting performance with LLMs.
+- `Can-LLMs-Trade-Market-Sim`: LLM trading in market simulation environments.
+- `ChatGPT-Abnormal-Returns`: using ChatGPT-style signals for return prediction.
+- `ChatGPT-Portfolio-Selection`: LLM assistance for portfolio construction.
+- `Cognitive-Alpha-Mining`: cognitive-style alpha mining with LLMs.
+- `Evolutionary-Alpha-Factor-Discovery`: evolutionary search for alpha factors.
+- `FINMEM`: memory-augmented LLMs for financial reasoning tasks.
+- `FLAG-TRADER`: LLM trading agent with feedback or guardrails.
+- `FinCon`: LLM-based financial conversation or decision agent.
+- `FinVision-Multi-Agent-Prediction`: multi-agent prediction system for markets.
+- `GPT-Stock-Factors`: LLMs for stock factor generation.
+- `LLM-Crypto-Portfolio-Management`: LLM-guided crypto portfolio management.
+- `MarketSenseAI-2`: market-sensing agent for trading signals.
+- `MountainLion-Multimodal-Trading`: multimodal inputs for trading agents.
+- `Multimodal-Foundation-Agent`: foundation agent with multimodal financial inputs.
+- `P1GPT-Multimodal-Finance-Analysis`: multimodal LLM for finance analysis.
+- `QuantEvolve`: evolutionary or adaptive quant research agent.
+- `RD-Agent-Quant`: R&D style agent for quant research.
+- `StockAgent-Simulated-Trading`: simulated trading with agent-based systems.
+- `TraderTalk-LLM-ABM-Trading`: agent-based market with LLM trader agents.
+- `TradingAgents`: multi-agent setups for trading workflows.
+- `What-Drives-Performance`: analysis of performance drivers in agentic trading.
 
 ### 02 Text Signals from News, Calls, and Filings
-- `ChatGPT-Corporate-Policy-Investment-Score.pdf`: policy language mapped to investable scores.
-- `ECC-Analyzer-LLM-Volatility.pdf`: earnings call analysis for volatility signals.
-- `FinLlama.pdf`: finance-tuned LLM for textual signal extraction.
-- `Financial-News-Structured-Extraction.pdf`: structured extraction from financial news.
-- `LLM-Core-Earnings.pdf`: LLM-driven extraction of core earnings signals.
-- `LLM-Market-Sentiment.pdf`: market sentiment from financial text.
-- `LLM-Sentiment-Trading.pdf`: sentiment-driven trading via LLMs.
+- `ChatGPT-Corporate-Policy-Investment-Score`: policy language mapped to investable scores.
+- `ECC-Analyzer-LLM-Volatility`: earnings call analysis for volatility signals.
+- `FinLlama`: finance-tuned LLM for textual signal extraction.
+- `Financial-News-Structured-Extraction`: structured extraction from financial news.
+- `LLM-Core-Earnings`: LLM-driven extraction of core earnings signals.
+- `LLM-Market-Sentiment`: market sentiment from financial text.
+- `LLM-Sentiment-Trading`: sentiment-driven trading via LLMs.
 
 ### 03 Risk, Crash, and Volatility
-- `FinRipple-Event-Ripple-Effects.pdf`: event ripple effects and systemic risk.
-- `LLM-Legal-Risk-Signal.pdf`: legal risk inference from text.
-- `LLM-Portfolio-Crash-Detection.pdf`: LLM-based crash detection signals.
-- `RiskLabs-LLM-Risk-Prediction.pdf`: risk prediction with LLMs.
+- `FinRipple-Event-Ripple-Effects`: event ripple effects and systemic risk.
+- `LLM-Legal-Risk-Signal`: legal risk inference from text.
+- `LLM-Portfolio-Crash-Detection`: LLM-based crash detection signals.
+- `RiskLabs-LLM-Risk-Prediction`: risk prediction with LLMs.
 
 ### 04 IE and Interpretable Text Methods
-- `ADELIE-IE-Alignment.pdf`: alignment-focused information extraction.
-- `LDA-Robustness-Text-Analysis.pdf`: topic model robustness in finance.
-- `LLM-Interpretable-Feature-Generation.pdf`: interpretable features generated by LLMs.
+- `ADELIE-IE-Alignment`: alignment-focused information extraction.
+- `LDA-Robustness-Text-Analysis`: topic model robustness in finance.
+- `LLM-Interpretable-Feature-Generation`: interpretable features generated by LLMs.
 
 ### 05 Benchmarks and Datasets
-- `CFA-LLM-Benchmark.pdf`: CFA-style evaluation benchmark.
-- `FinGPT.pdf`: domain-specific financial LLM benchmark/model.
-- `FinTagging.pdf`: financial tagging benchmark or dataset.
-- `LiveTradeBench.pdf`: trading benchmark for live-style evaluation.
-- `MultiFinBen.pdf`: multi-task finance benchmark.
-- `Profit-Mirage-LLM-Agent-Leakage.pdf`: evaluation leakage analysis.
+- `CFA-LLM-Benchmark`: CFA-style evaluation benchmark.
+- `FinGPT`: domain-specific financial LLM benchmark/model.
+- `FinTagging`: financial tagging benchmark or dataset.
+- `LiveTradeBench`: trading benchmark for live-style evaluation.
+- `MultiFinBen`: multi-task finance benchmark.
+- `Profit-Mirage-LLM-Agent-Leakage`: evaluation leakage analysis.
 
 ## Tools
 
