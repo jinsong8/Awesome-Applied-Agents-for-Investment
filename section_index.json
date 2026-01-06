@@ -1,0 +1,754 @@
+{
+  "AAPM-LLM-Agent-Asset-Pricing.txt": {
+    "hits": {
+      "abstract": 74,
+      "conclusion": 2015,
+      "data": 309,
+      "experiments": 1180,
+      "introduction": 95,
+      "limitations": 2344,
+      "method": 144,
+      "results": 159
+    },
+    "n_lines": 3413
+  },
+  "ADELIE-IE-Alignment.txt": {
+    "hits": {},
+    "n_lines": 53
+  },
+  "AIA-Forecaster.txt": {
+    "hits": {
+      "abstract": 11
+    },
+    "n_lines": 134
+  },
+  "Alpha-GPT.txt": {
+    "hits": {
+      "abstract": 52,
+      "data": 461,
+      "evaluation": 546,
+      "experiments": 73,
+      "introduction": 86,
+      "limitations": 60,
+      "results": 76
+    },
+    "n_lines": 995
+  },
+  "Alpha-Jungle-MCTS.txt": {
+    "hits": {
+      "abstract": 48,
+      "conclusion": 911,
+      "data": 84,
+      "discussion": 598,
+      "evaluation": 405,
+      "experiments": 207,
+      "introduction": 77,
+      "limitations": 59,
+      "method": 414,
+      "results": 68
+    },
+    "n_lines": 2135
+  },
+  "Alpha-R1.txt": {
+    "hits": {
+      "abstract": 91,
+      "conclusion": 1241,
+      "data": 400,
+      "evaluation": 885,
+      "experiments": 845,
+      "limitations": 211,
+      "method": 910,
+      "results": 109
+    },
+    "n_lines": 1726
+  },
+  "AlphaAgent.txt": {
+    "hits": {
+      "abstract": 87,
+      "conclusion": 1073,
+      "data": 70,
+      "evaluation": 561,
+      "experiments": 240,
+      "limitations": 415,
+      "method": 764,
+      "results": 255
+    },
+    "n_lines": 1351
+  },
+  "AlphaForge.txt": {
+    "hits": {
+      "abstract": 56,
+      "conclusion": 989,
+      "data": 561,
+      "discussion": 974,
+      "experiments": 178,
+      "introduction": 84,
+      "limitations": 112,
+      "method": 63,
+      "related_work": 910,
+      "results": 906
+    },
+    "n_lines": 1368
+  },
+  "AlphaQuanter.txt": {
+    "hits": {
+      "abstract": 53,
+      "conclusion": 294,
+      "data": 1255,
+      "experiments": 63,
+      "introduction": 71,
+      "limitations": 56,
+      "method": 1325,
+      "results": 147
+    },
+    "n_lines": 2663
+  },
+  "Approaching-Human-Level-Forecasting.txt": {
+    "hits": {
+      "abstract": 62,
+      "conclusion": 825,
+      "data": 229,
+      "limitations": 91,
+      "method": 539,
+      "results": 819
+    },
+    "n_lines": 975
+  },
+  "CFA-LLM-Benchmark.txt": {
+    "hits": {
+      "abstract": 44,
+      "conclusion": 1580,
+      "data": 117,
+      "introduction": 86,
+      "limitations": 126,
+      "method": 194,
+      "results": 70
+    },
+    "n_lines": 1691
+  },
+  "Can-LLMs-Trade-Market-Sim.txt": {
+    "hits": {
+      "abstract": 8,
+      "conclusion": 1736,
+      "experiments": 214,
+      "introduction": 104,
+      "limitations": 1175,
+      "method": 305,
+      "results": 201
+    },
+    "n_lines": 2320
+  },
+  "ChatGPT-Abnormal-Returns.txt": {
+    "hits": {
+      "abstract": 11,
+      "conclusion": 3135,
+      "data": 261,
+      "introduction": 26,
+      "limitations": 31,
+      "results": 110
+    },
+    "n_lines": 3237
+  },
+  "ChatGPT-Corporate-Policy-Investment-Score.txt": {
+    "hits": {
+      "abstract": 36,
+      "data": 448,
+      "introduction": 75,
+      "method": 1564,
+      "results": 1116
+    },
+    "n_lines": 4498
+  },
+  "ChatGPT-Portfolio-Selection.txt": {
+    "hits": {
+      "abstract": 13,
+      "conclusion": 693,
+      "data": 307,
+      "experiments": 114,
+      "limitations": 696,
+      "results": 123
+    },
+    "n_lines": 733
+  },
+  "Cognitive-Alpha-Mining.txt": {
+    "hits": {
+      "abstract": 55,
+      "conclusion": 938,
+      "data": 392,
+      "evaluation": 416,
+      "experiments": 73,
+      "introduction": 81,
+      "limitations": 64,
+      "results": 75
+    },
+    "n_lines": 2423
+  },
+  "ECC-Analyzer-LLM-Volatility.txt": {
+    "hits": {
+      "abstract": 72,
+      "conclusion": 813,
+      "data": 202,
+      "experiments": 201,
+      "limitations": 179,
+      "method": 342,
+      "results": 772
+    },
+    "n_lines": 1272
+  },
+  "Evolutionary-Alpha-Factor-Discovery.txt": {
+    "hits": {
+      "abstract": 10,
+      "conclusion": 1451,
+      "data": 21,
+      "discussion": 824,
+      "evaluation": 2878,
+      "experiments": 20,
+      "introduction": 30,
+      "limitations": 42,
+      "method": 982,
+      "results": 2224
+    },
+    "n_lines": 4881
+  },
+  "FINMEM.txt": {
+    "hits": {
+      "abstract": 50,
+      "conclusion": 1534,
+      "data": 173,
+      "evaluation": 1126,
+      "experiments": 180,
+      "introduction": 76,
+      "limitations": 80,
+      "method": 187,
+      "results": 1531
+    },
+    "n_lines": 1786
+  },
+  "FLAG-TRADER.txt": {
+    "hits": {
+      "abstract": 51,
+      "conclusion": 1489,
+      "data": 114,
+      "experiments": 180,
+      "introduction": 77,
+      "limitations": 1515,
+      "results": 71
+    },
+    "n_lines": 2092
+  },
+  "FinCon.txt": {
+    "hits": {
+      "abstract": 52,
+      "experiments": 482,
+      "introduction": 73,
+      "limitations": 85,
+      "method": 276
+    },
+    "n_lines": 506
+  },
+  "FinGPT.txt": {
+    "hits": {
+      "abstract": 50,
+      "conclusion": 988,
+      "data": 66,
+      "experiments": 791,
+      "limitations": 218,
+      "method": 795,
+      "results": 876
+    },
+    "n_lines": 1219
+  },
+  "FinLlama.txt": {
+    "hits": {
+      "abstract": 47,
+      "conclusion": 548,
+      "data": 324,
+      "limitations": 221,
+      "method": 185,
+      "results": 71
+    },
+    "n_lines": 805
+  },
+  "FinRipple-Event-Ripple-Effects.txt": {
+    "hits": {
+      "abstract": 47,
+      "conclusion": 1464,
+      "data": 628,
+      "evaluation": 666,
+      "experiments": 72,
+      "introduction": 78,
+      "limitations": 318,
+      "method": 1252,
+      "results": 731
+    },
+    "n_lines": 3793
+  },
+  "FinTagging.txt": {
+    "hits": {
+      "abstract": 107,
+      "data": 176,
+      "evaluation": 238,
+      "limitations": 150,
+      "method": 305,
+      "results": 287
+    },
+    "n_lines": 762
+  },
+  "FinVision-Multi-Agent-Prediction.txt": {
+    "hits": {
+      "abstract": 55,
+      "discussion": 235,
+      "limitations": 126,
+      "results": 224
+    },
+    "n_lines": 279
+  },
+  "Financial-News-Structured-Extraction.txt": {
+    "hits": {
+      "abstract": 67,
+      "conclusion": 603,
+      "data": 88,
+      "experiments": 756,
+      "limitations": 291,
+      "method": 183,
+      "results": 343
+    },
+    "n_lines": 799
+  },
+  "GPT-Stock-Factors.txt": {
+    "hits": {
+      "abstract": 10,
+      "conclusion": 1388,
+      "data": 212,
+      "evaluation": 1372,
+      "introduction": 34,
+      "limitations": 241,
+      "results": 220
+    },
+    "n_lines": 1555
+  },
+  "LDA-Robustness-Text-Analysis.txt": {
+    "hits": {
+      "abstract": 7,
+      "data": 70,
+      "results": 29
+    },
+    "n_lines": 1311
+  },
+  "LLM-Core-Earnings.txt": {
+    "hits": {
+      "abstract": 12,
+      "conclusion": 1706,
+      "data": 88,
+      "experiments": 204,
+      "limitations": 558,
+      "method": 24,
+      "results": 1744
+    },
+    "n_lines": 3221
+  },
+  "LLM-Crypto-Portfolio-Management.txt": {
+    "hits": {
+      "abstract": 73,
+      "conclusion": 1897,
+      "data": 127,
+      "evaluation": 1948,
+      "experiments": 762,
+      "limitations": 82,
+      "results": 1776
+    },
+    "n_lines": 2111
+  },
+  "LLM-Interpretable-Feature-Generation.txt": {
+    "hits": {
+      "abstract": 14,
+      "conclusion": 162,
+      "data": 219,
+      "evaluation": 1760,
+      "experiments": 257,
+      "introduction": 930,
+      "limitations": 161,
+      "method": 447,
+      "results": 1598
+    },
+    "n_lines": 2386
+  },
+  "LLM-Legal-Risk-Signal.txt": {
+    "hits": {
+      "abstract": 10,
+      "conclusion": 2403,
+      "data": 438,
+      "evaluation": 2754,
+      "introduction": 56,
+      "limitations": 94,
+      "method": 69,
+      "results": 175
+    },
+    "n_lines": 2982
+  },
+  "LLM-Market-Sentiment.txt": {
+    "hits": {
+      "abstract": 11,
+      "conclusion": 3372,
+      "data": 828,
+      "introduction": 37,
+      "limitations": 1072,
+      "results": 89
+    },
+    "n_lines": 4651
+  },
+  "LLM-Portfolio-Crash-Detection.txt": {
+    "hits": {
+      "abstract": 70,
+      "conclusion": 1253,
+      "data": 76,
+      "experiments": 194,
+      "limitations": 207,
+      "results": 879
+    },
+    "n_lines": 1842
+  },
+  "LLM-Sentiment-Trading.txt": {
+    "hits": {
+      "conclusion": 774,
+      "data": 160,
+      "evaluation": 305,
+      "introduction": 42,
+      "limitations": 86,
+      "method": 145,
+      "results": 158
+    },
+    "n_lines": 924
+  },
+  "LiveTradeBench.txt": {
+    "hits": {
+      "conclusion": 1192,
+      "data": 1557,
+      "evaluation": 163,
+      "experiments": 1197,
+      "introduction": 34,
+      "limitations": 198,
+      "method": 230,
+      "related_work": 226,
+      "results": 26
+    },
+    "n_lines": 2141
+  },
+  "MarketSenseAI-2.txt": {
+    "hits": {
+      "abstract": 14,
+      "conclusion": 1225,
+      "data": 373,
+      "evaluation": 172,
+      "experiments": 156,
+      "limitations": 99,
+      "method": 146,
+      "results": 617
+    },
+    "n_lines": 1529
+  },
+  "MountainLion-Multimodal-Trading.txt": {
+    "hits": {
+      "abstract": 70,
+      "data": 74,
+      "experiments": 211,
+      "introduction": 111,
+      "method": 475,
+      "results": 101
+    },
+    "n_lines": 477
+  },
+  "MultiFinBen.txt": {
+    "hits": {
+      "abstract": 59,
+      "data": 431,
+      "evaluation": 288,
+      "introduction": 103,
+      "limitations": 236,
+      "results": 992
+    },
+    "n_lines": 1093
+  },
+  "Multimodal-Foundation-Agent.txt": {
+    "hits": {
+      "abstract": 98,
+      "conclusion": 1733,
+      "data": 136,
+      "experiments": 912,
+      "limitations": 189,
+      "method": 308,
+      "results": 254
+    },
+    "n_lines": 5970
+  },
+  "Oral-ADELIE.txt": {
+    "hits": {},
+    "n_lines": 53
+  },
+  "Oral-Alpha-Agent.txt": {
+    "hits": {
+      "abstract": 87,
+      "conclusion": 1073,
+      "data": 70,
+      "evaluation": 561,
+      "experiments": 240,
+      "limitations": 415,
+      "method": 764,
+      "results": 255
+    },
+    "n_lines": 1351
+  },
+  "Oral-Balek.txt": {
+    "hits": {
+      "abstract": 14,
+      "conclusion": 162,
+      "data": 219,
+      "evaluation": 1760,
+      "experiments": 257,
+      "introduction": 930,
+      "limitations": 161,
+      "method": 447,
+      "results": 1598
+    },
+    "n_lines": 2386
+  },
+  "Oral-Cao.txt": {
+    "hits": {
+      "abstract": 72,
+      "conclusion": 813,
+      "data": 202,
+      "experiments": 201,
+      "limitations": 179,
+      "method": 342,
+      "results": 772
+    },
+    "n_lines": 1272
+  },
+  "Oral-FinRipple.txt": {
+    "hits": {
+      "abstract": 47,
+      "conclusion": 1464,
+      "data": 628,
+      "evaluation": 666,
+      "experiments": 72,
+      "introduction": 78,
+      "limitations": 318,
+      "method": 1252,
+      "results": 731
+    },
+    "n_lines": 3793
+  },
+  "Oral-Investment-Score-Corperate-Policies.txt": {
+    "hits": {
+      "abstract": 36,
+      "data": 448,
+      "introduction": 75,
+      "method": 1564,
+      "results": 1116
+    },
+    "n_lines": 4498
+  },
+  "Oral-Ke-LDA.txt": {
+    "hits": {
+      "abstract": 7,
+      "data": 70,
+      "results": 29
+    },
+    "n_lines": 1311
+  },
+  "Oral-Legal-Risk.txt": {
+    "hits": {
+      "abstract": 10,
+      "conclusion": 2403,
+      "data": 438,
+      "evaluation": 2754,
+      "introduction": 56,
+      "limitations": 94,
+      "method": 69,
+      "results": 175
+    },
+    "n_lines": 2982
+  },
+  "Oral-Polygon-Extraction.txt": {
+    "hits": {
+      "abstract": 67,
+      "conclusion": 603,
+      "data": 88,
+      "experiments": 756,
+      "limitations": 291,
+      "method": 183,
+      "results": 343
+    },
+    "n_lines": 799
+  },
+  "Oral-RiskLabs.txt": {
+    "hits": {
+      "abstract": 50,
+      "data": 199,
+      "experiments": 64,
+      "results": 63
+    },
+    "n_lines": 718
+  },
+  "Oral-Sentiment-Trading.txt": {
+    "hits": {
+      "conclusion": 774,
+      "data": 160,
+      "evaluation": 305,
+      "introduction": 42,
+      "limitations": 86,
+      "method": 145,
+      "results": 158
+    },
+    "n_lines": 924
+  },
+  "Oral-Shaffer.txt": {
+    "hits": {
+      "abstract": 12,
+      "conclusion": 1706,
+      "data": 88,
+      "experiments": 204,
+      "limitations": 558,
+      "method": 24,
+      "results": 1744
+    },
+    "n_lines": 3221
+  },
+  "Oral-TradingAgents.txt": {
+    "hits": {
+      "abstract": 54,
+      "conclusion": 571,
+      "data": 537,
+      "evaluation": 870,
+      "experiments": 629,
+      "introduction": 79,
+      "limitations": 119,
+      "related_work": 179,
+      "results": 947
+    },
+    "n_lines": 1027
+  },
+  "OralLLM-Sentiment.txt": {
+    "hits": {
+      "abstract": 11,
+      "conclusion": 3372,
+      "data": 828,
+      "introduction": 37,
+      "limitations": 1072,
+      "results": 89
+    },
+    "n_lines": 4651
+  },
+  "P1GPT-Multimodal-Finance-Analysis.txt": {
+    "hits": {
+      "abstract": 57,
+      "conclusion": 557,
+      "evaluation": 604,
+      "experiments": 594,
+      "introduction": 77,
+      "limitations": 163,
+      "results": 439
+    },
+    "n_lines": 1157
+  },
+  "Profit-Mirage-LLM-Agent-Leakage.txt": {
+    "hits": {
+      "abstract": 68,
+      "conclusion": 1530,
+      "data": 521,
+      "experiments": 81,
+      "limitations": 183,
+      "results": 130
+    },
+    "n_lines": 2110
+  },
+  "QuantEvolve.txt": {
+    "hits": {
+      "abstract": 50,
+      "conclusion": 1363,
+      "data": 67,
+      "evaluation": 63,
+      "experiments": 511,
+      "limitations": 93,
+      "results": 682
+    },
+    "n_lines": 3009
+  },
+  "RD-Agent-Quant.txt": {
+    "hits": {
+      "abstract": 53,
+      "data": 43,
+      "experiments": 226,
+      "introduction": 79,
+      "limitations": 131,
+      "results": 197
+    },
+    "n_lines": 849
+  },
+  "RiskLabs-LLM-Risk-Prediction.txt": {
+    "hits": {
+      "abstract": 50,
+      "data": 199,
+      "experiments": 64,
+      "results": 63
+    },
+    "n_lines": 718
+  },
+  "StockAgent-Simulated-Trading.txt": {
+    "hits": {
+      "conclusion": 533,
+      "discussion": 1349,
+      "evaluation": 1062,
+      "experiments": 996,
+      "limitations": 153,
+      "results": 497
+    },
+    "n_lines": 1686
+  },
+  "TraderTalk-LLM-ABM-Trading.txt": {
+    "hits": {
+      "abstract": 50,
+      "conclusion": 290,
+      "experiments": 236,
+      "limitations": 143,
+      "results": 290
+    },
+    "n_lines": 615
+  },
+  "TradingAgents.txt": {
+    "hits": {
+      "abstract": 54,
+      "conclusion": 571,
+      "data": 537,
+      "evaluation": 870,
+      "experiments": 629,
+      "introduction": 79,
+      "limitations": 119,
+      "related_work": 179,
+      "results": 947
+    },
+    "n_lines": 1027
+  },
+  "What-Drives-Performance.txt": {
+    "hits": {
+      "abstract": 14,
+      "data": 272,
+      "evaluation": 1196,
+      "introduction": 64,
+      "method": 627,
+      "results": 1578
+    },
+    "n_lines": 1974
+  },
+  "lm-detect-crash.txt": {
+    "hits": {
+      "abstract": 70,
+      "conclusion": 1253,
+      "data": 76,
+      "experiments": 194,
+      "limitations": 207,
+      "results": 879
+    },
+    "n_lines": 1842
+  }
+}
